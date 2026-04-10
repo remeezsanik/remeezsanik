@@ -32,7 +32,7 @@
     </td>
     <td width="50%">
       <img 
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&theme=dark&hide_border=true&hide=html,shell,css&langs_count=10"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&theme=dark&hide_border=true&hide=html,shell,css&langs_count=8"
         width="100%" 
       />
     </td>
