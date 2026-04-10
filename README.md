@@ -23,10 +23,10 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remeezsanik&show_icons=true&theme=dark" alt="Remeez's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remeezsanik&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true" alt="Remeez's Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
