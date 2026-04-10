@@ -36,10 +36,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" width="100%" />
 </p>
-
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" width="100%" />
-</p>
