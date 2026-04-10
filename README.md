@@ -25,10 +25,16 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+      <img 
+        src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true"
+        width="100%" 
+      />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&langs_count=8&theme=dark&hide_border=true&hide=html,shell,css" width="100%" />
+      <img 
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&theme=dark&hide_border=true&hide=html,shell,css&langs_count=10"
+        width="100%" 
+      />
     </td>
   </tr>
 </table>
