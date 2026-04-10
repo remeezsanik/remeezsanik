@@ -21,11 +21,13 @@
 ---
 
 ## 📊 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=remeezsanik&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Remeez's Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remeezsanik&theme=dark&hide_border=true&layout=compact" alt="Top Languages" width="48%"/>
-</p>
+
+| **Remeez's Stats** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=remeezsanik&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=remeezsanik&theme=dark&hide_border=true&layout=compact" width="400px" /> |
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" alt="GitHub Streak" width="97%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" width="100%" />
 </p>
