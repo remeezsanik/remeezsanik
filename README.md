@@ -22,9 +22,15 @@
 
 ## 📊 GitHub Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&theme=dark&hide_border=true&hide=html,shell,css" width="48%" />
+<div align="center" style="display: flex; gap: 10px;">
+  <img 
+    src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true"
+    style="width: 50%; height: 200px; object-fit: cover;"
+  />
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&theme=dark&hide_border=true&hide=html,shell,css"
+    style="width: 50%; height: 200px; object-fit: cover;"
+  />
 </div>
 
 
