@@ -22,14 +22,16 @@
 
 ## 📊 GitHub Performance
 
-## 📊 GitHub Performance
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48.5%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&theme=dark&hide_border=true&hide=html,shell,css&langs_count=3" width="48.5%" />
-</div>
-
-<br />
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=remeezsanik&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=remeezsanik&layout=compact&theme=dark&hide_border=true&hide=html,shell,css&langs_count=3" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remeezsanik&theme=dark&hide_border=true" width="100%" />
